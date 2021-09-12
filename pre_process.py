@@ -257,3 +257,5 @@ def main():
 
     # This is the final dataset
     return df
+
+print(main())
